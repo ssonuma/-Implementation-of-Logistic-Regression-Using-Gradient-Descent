@@ -1,5 +1,3 @@
-![Screenshot 2025-05-22 031555](https://github.com/user-attachments/assets/0c21e131-3c39-49c3-97cf-2e44af24f888)# Implementation-of-Logistic-Regression-Using-Gradient-Descent
-
 ## AIM:
 To write a program to implement the the Logistic Regression Using Gradient Descent.
 
@@ -82,12 +80,12 @@ print(y_prednew)
 
 ## Output:
 ![Screenshot 2025-05-22 031520](https://github.com/user-attachments/assets/63cad6c2-6c21-4f5a-bee0-a8bc7048b163)
+
 ![Screenshot 2025-05-22 031533](https://github.com/user-attachments/assets/59355c17-8f89-4f4b-91a8-b9ff6f3ee673)
+
 ![Screenshot 2025-05-22 031547](https://github.com/user-attachments/assets/71472f9b-9a10-4555-8e25-fae6a4092b6c)
+
 ![Screenshot 2025-05-22 031555](https://github.com/user-attachments/assets/3fa467c5-7a58-4d45-9954-aac602cbc69d)
-
-
-![logistic regression using gradient descent](sam.png)
 
 
 ## Result:
